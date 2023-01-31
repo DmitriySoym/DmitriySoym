@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://soymchenko.netlify.app/index.html" target="_blank">Dima Soymchenko</a>
+<h3 align="center">Hi there, I'm <a href="https://soymchenko.netlify.app/index.html" target="_blank">Dima Soymchenko</a>
 
 ### About me
 
-#### I am growing and improving in the field of web development. 💻
+#### I am a junior Front-end developer. 💻
 
 #### My hobbies: I like playng chess and table tennis. I'm interested in the video game industry 🎮
 
@@ -16,9 +16,7 @@
 
 <!-- <hr/> -->
 
-### My CodeWars
-
-![codewars badge](https://www.codewars.com/users/Dmitriy%20%20Soymchenko/badges/large)
+### My Projects 💼
 
 <details><summary>🚀 React projects</summary>
 
@@ -42,6 +40,10 @@
 - [Bicycle shop](https://github.com/DmitriySoym/velo-grid)
 
 </details>
+
+### My CodeWars
+
+![codewars badge](https://www.codewars.com/users/Dmitriy%20%20Soymchenko/badges/small)
 
 ### Tools
 
