@@ -2,7 +2,7 @@
 
 ### About me
 
-#### I am a junior Front-end developer. 💻
+#### I am a Front-end developer. 💻
 
 #### My hobbies: I like playng chess and table tennis. I'm interested in the video game industry 🎮
 
