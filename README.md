@@ -16,7 +16,7 @@
 
 <!-- <hr/> -->
 
-### My Projects 💼
+### 💼 My Projects
 
 <details><summary>🚀 React projects</summary>
 
