@@ -2,19 +2,16 @@
 
 ### About me
 
-#### I am a Front-end developer. 💻
+#### I am a Web developer. 💻
 
 #### My hobbies: I like playng chess and table tennis. I'm interested in the video game industry 🎮
 
-<!-- <hr/> -->
-
 ### ☎️ Contacts
 
-- [Linkedin](https://www.linkedin.com/in/dima-soymchenko/)
-- [Telegram](https://t.me/dimasem4)
-- Gmail: d.soymchenko@gmail.com
+<a href="https://www.linkedin.com/in/dima-soymchenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://t.me/dimasem4" target="_blank"><img src="https://img.shields.io/badge/Telegram-informational?logo=Telegram&logoColor=white&style=for-the-badge"></a>
 
-<!-- <hr/> -->
+Gmail: d.soymchenko@gmail.com
 
 ### 💼 My Projects
 
@@ -45,8 +42,10 @@
 
 ![codewars badge](https://www.codewars.com/users/Dmitriy%20%20Soymchenko/badges/small)
 
-### Tools
+### Skills
 
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=%23777BB4)
+![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=%2300f)
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
