@@ -1,8 +1,6 @@
 <h3 align="center">Hi there, I'm <a href="https://soymchenko.netlify.app/index.html" target="_blank">Dima Soymchenko</a>
 
-### About me
-
-#### I am a Web developer. 💻
+#### I am a Front-end developer. 💻
 
 #### My hobbies: I like playng chess and table tennis. I'm interested in the video game industry 🎮
 
@@ -59,3 +57,5 @@ Gmail: d.soymchenko@gmail.com
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-090909?style=for-the-badge&logo=AXIOS)
+
+#### My hobbies: I like playng chess and table tennis. I'm interested in the video game industry 🎮
