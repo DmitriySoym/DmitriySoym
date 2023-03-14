@@ -16,6 +16,7 @@ Gmail: d.soymchenko@gmail.com
 <details><summary>🚀 React projects</summary>
 
 - [Space blog App](https://github.com/DmitriySoym/React-blog-app)
+- [Sport bet app](https://github.com/DmitriySoym/eg-ag-task)
 - [Budget control app](https://github.com/DmitriySoym/react-budget-app)
 - [Tip calculator](https://github.com/DmitriySoym/react-tips-calculator)
 - [Country list](https://github.com/DmitriySoym/react-country-list)
@@ -31,6 +32,7 @@ Gmail: d.soymchenko@gmail.com
 
 <details><summary>🔵🔴 CSS Projects</summary>
 
+- [Events list and timer](https://github.com/DmitriySoym/eg-ag-task)
 - [Online-zoo](https://github.com/DmitriySoym/oline-zoo)
 - [Bicycle shop](https://github.com/DmitriySoym/velo-grid)
 
