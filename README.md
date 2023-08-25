@@ -32,7 +32,6 @@ Gmail: d.soymchenko@gmail.com
 
 <details><summary>🔵🔴 CSS Projects</summary>
 
-- [Events list and timer](https://github.com/DmitriySoym/eg-ag-task)
 - [Online-zoo](https://github.com/DmitriySoym/oline-zoo)
 - [Bicycle shop](https://github.com/DmitriySoym/velo-grid)
 
