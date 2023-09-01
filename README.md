@@ -32,6 +32,7 @@ Gmail: d.soymchenko@gmail.com
 
 <details><summary>🔵🔴 CSS Projects</summary>
 
+- [Surgery center](https://github.com/DmitriySoym/bootstrap-project)
 - [Online-zoo](https://github.com/DmitriySoym/oline-zoo)
 - [Bicycle shop](https://github.com/DmitriySoym/velo-grid)
 
