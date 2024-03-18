@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm <a href="https://soymchenko.netlify.app/index.html" target="_blank">Dima Soymchenko</a>
+<h3 align="center">Hi there, I'm Dima Soymchenko</h3>
 
 #### I am a Front-end developer. 💻
 
