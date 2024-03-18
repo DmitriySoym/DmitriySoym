@@ -2,8 +2,6 @@
 
 #### I am a Front-end developer. 💻
 
-#### My hobbies: I like playng chess and table tennis. I'm interested in the video game industry 🎮
-
 ### ☎️ Contacts
 
 <a href="https://www.linkedin.com/in/dima-soymchenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
