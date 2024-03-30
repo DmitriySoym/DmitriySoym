@@ -1,6 +1,5 @@
 <h3 align="center">Hi there, I'm Dima Soymchenko</h3>
 
-#### I am a Front-end developer. 💻
 
 ### ☎️ Contacts
 
