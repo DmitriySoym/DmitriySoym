@@ -3,7 +3,6 @@
 
 ### ☎️ Contacts
 
-<a href="https://www.linkedin.com/in/dima-soymchenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://t.me/dimasem4" target="_blank"><img src="https://img.shields.io/badge/Telegram-informational?logo=Telegram&logoColor=white&style=for-the-badge"></a>
 
 Gmail: d.soymchenko@gmail.com
